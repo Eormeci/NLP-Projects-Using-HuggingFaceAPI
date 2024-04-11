@@ -1,0 +1,1 @@
+In these projects, I have worked on tasks such as question answering, text generation, summarization, and English to SQL translation using the HuggingFaceAPI. Additionally, I have conducted vector similarity search using ChromaDB, a vector database.
